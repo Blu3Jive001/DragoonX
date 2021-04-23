@@ -1,2 +1,3 @@
-# DragoonX
-A relook into the Dragoon II theme, and porting it to Windows 10
+<h1 align="center">DragoonX</h1>
+
+![img](https://raw.githubusercontent.com/Blu3Jive001/DragoonX/master/preview.png)
