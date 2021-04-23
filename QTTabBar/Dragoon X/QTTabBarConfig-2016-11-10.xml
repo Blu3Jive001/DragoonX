@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QTTabBar>
+  <SerializedOptions>All</SerializedOptions>
+  <Config>
+    <Config>394AB80F202551791D56CB1FFA981BC813EC3B22303E00031F10FFFFFFFFF1FF0100340807491A9100CAB31CD1B31C0A8B402B04CBB28C08080010800000000400140000000000000010000000010000</Config>
+    <KeyboardShortcuts>000000000000000025001600270016000900120009001300000000000000000057001200570013000000000000000000000000005A0013004E001200000000004C001200000000004F001200470013004F001400BC001400BE0014004700140048001400410014004D001400430013005800130043001400580014004800130000000000000000006B0013006D0013005100140046001200450014005200140056001400270013000000000000000000000000000000000000000000000000000000000000000000000000004600130054001300000000000000000000000000450013004400130000000000000000000000000000000000000000000000000000000000550013004A0013000000000000000000000000000000000000000000000000000000000000000000000000000000000053001400000000004C0013005000130046001400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000071001100570014000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003100130032001300330013003400130035001300360013003700130038001300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</KeyboardShortcuts>
+    <LanguageFile></LanguageFile>
+    <RecentTabMax>64</RecentTabMax>
+    <RecentFileMax>64</RecentFileMax>
+    <RecentFileMax_Exe>24</RecentFileMax_Exe>
+    <ToolbarBGImage>C:\Dropbox\Photos\Photoshop Projects\Windows Suites\Dragoon II Suite\Dragoon II - QTTabBar\dragoon_bg.png</ToolbarBGImage>
+    <ResolverLongTimeout>10000</ResolverLongTimeout>
+    <TabFont>MontserratHacked</TabFont>
+    <TabFontSize>6.75</TabFontSize>
+    <TabFontStyle>0</TabFontStyle>
+    <TabFontStyleActive>0</TabFontStyleActive>
+    <TabImage>C:\Dropbox\Photos\Photoshop Projects\Windows Suites\Dragoon II Suite\Dragoon II - QTTabBar\dragoon_tab.png</TabImage>
+    <TabCloseButtonImage>C:\Dropbox\Photos\Photoshop Projects\Windows Suites\Dragoon II Suite\Dragoon II - QTTabBar\close.png</TabCloseButtonImage>
+    <TabLockImage></TabLockImage>
+    <TabImageSizingMargin>00000000</TabImageSizingMargin>
+    <TabTextOffsets>196606</TabTextOffsets>
+    <TabCloseButtonOffsets>65560</TabCloseButtonOffsets>
+    <TabLockImageOffsets>0</TabLockImageOffsets>
+    <TabIconOffsets>0</TabIconOffsets>
+    <TabPadding>1E000000000000001E00000000000000</TabPadding>
+    <TabWidth>159</TabWidth>
+    <TabHeight>27</TabHeight>
+    <TabWidthMax>150</TabWidthMax>
+    <TabWidthMin>70</TabWidthMin>
+    <DefaultTabLocation>14001F50E04FD020EA3A6910A2D808002B30309D19002F433A5C000000000000000000000000000000000000004C00310000000000000000001000557365727300380008000400EFBE00000000000000002A00000000000000000000000000000000000000000000000000550073006500720073000000140056003100000000000000000010004B614C616D31747900003E0008000400EFBE00000000000000002A000000000000000000000000000000000000000000000000004B0061004C0061006D003100740079000000180052003100000000000000000010004465736B746F70003C0008000400EFBE00000000000000002A000000000000000000000000000000000000000000000000004400650073006B0074006F007000000016000000</DefaultTabLocation>
+    <TabAnimationFactor>1</TabAnimationFactor>
+    <ColorActive>-1324149</ColorActive>
+    <ColorInactive>-11576474</ColorInactive>
+    <ColorHighlightClassic>-13289404</ColorHighlightClassic>
+    <ColorShadowActive>-5788230</ColorShadowActive>
+    <ColorShadowInacitve>-5788230</ColorShadowInacitve>
+    <ColorToolbarBackground>-13946821</ColorToolbarBackground>
+    <ColorVerticalBarBackground>-13946821</ColorVerticalBarBackground>
+    <ColorHorizontalBarBackground>-14341581</ColorHorizontalBarBackground>
+    <ColorNavigationPaneBackground>-13946821</ColorNavigationPaneBackground>
+    <ColorNavigationPaneText>-2828320</ColorNavigationPaneText>
+    <PreviewMaxWidth>512</PreviewMaxWidth>
+    <PreviewMaxHeight>256</PreviewMaxHeight>
+    <PreviewMovieMaxWidth>512</PreviewMovieMaxWidth>
+    <PreviewMovieMaxHeight>256</PreviewMovieMaxHeight>
+    <PreviewTextMaxWidth>256</PreviewTextMaxWidth>
+    <PreviewTextMaxHeight>256</PreviewTextMaxHeight>
+    <PreviewTextReadSizeKB>1</PreviewTextReadSizeKB>
+    <PreviewMaxCacheSize>256</PreviewMaxCacheSize>
+    <PreviewFont>Segoe UI</PreviewFont>
+    <PreviewFontSize>9</PreviewFontSize>
+    <PreviewFontStyle>0</PreviewFontStyle>
+    <PreviewSoundVolume>0.098</PreviewSoundVolume>
+    <PreviewDelayOnFolderView>400</PreviewDelayOnFolderView>
+    <PreviewDelayOnMenu>0</PreviewDelayOnMenu>
+    <PreviewFullScreenMonitor></PreviewFullScreenMonitor>
+    <PreviewTextForeColor>13948896</PreviewTextForeColor>
+    <PreviewTextBackColor>3224639</PreviewTextBackColor>
+    <PreviewSlideShowInterval>10000</PreviewSlideShowInterval>
+    <PreviewOpacity>255</PreviewOpacity>
+    <PreviewImageExtensions>.bmp;.dib;.rle;.jpg;.jpeg;.jpe;.jfif;.gif;.emf;.wmf;.tif;.tiff;.png;.wdp;</PreviewImageExtensions>
+    <PreviewMovieExtensions></PreviewMovieExtensions>
+    <PreviewTextExtensions>.aspx;.bat;.c;.cpp;.cs;.css;.h;.htm;.html;.inf;.ini;.js;.log;.reg;.txt;.vb;.vbs;.xaml;.xml;</PreviewTextExtensions>
+    <MenuOpacity>255</MenuOpacity>
+    <SubFolderMenuOpacity>255</SubFolderMenuOpacity>
+    <MaxMenuChar>40</MaxMenuChar>
+    <MenuFont></MenuFont>
+    <MenuFontSize></MenuFontSize>
+    <MenuFontStyle>0</MenuFontStyle>
+    <WavePath_Copy></WavePath_Copy>
+    <WavePath_Cut></WavePath_Cut>
+    <WavePath_Paste></WavePath_Paste>
+    <WavePath_Delete></WavePath_Delete>
+    <DesktopToolImage></DesktopToolImage>
+    <DesktopToolImageSizingMargin>00000000</DesktopToolImageSizingMargin>
+    <HoverTabChangeDelay>700</HoverTabChangeDelay>
+    <HoverMenuDelay>1200</HoverMenuDelay>
+    <AutoHideToolbarDelay>2000</AutoHideToolbarDelay>
+    <AutoShowToolbarDelay>100</AutoShowToolbarDelay>
+    <ColumnWidthForList>300</ColumnWidthForList>
+    <ViewBorderColor>16777215</ViewBorderColor>
+    <ViewFocusedBorderColor>16777215</ViewFocusedBorderColor>
+    <TabSwitchItem>10</TabSwitchItem>
+    <ExportDirectory></ExportDirectory>
+    <ExportInterval>7</ExportInterval>
+    <FileRenamerDepth>0</FileRenamerDepth>
+    <FileRenamerNumStart>1</FileRenamerNumStart>
+    <FileRenamerNumIncrement>1</FileRenamerNumIncrement>
+    <CompatibleViewBackgroundColor>3878955</CompatibleViewBackgroundColor>
+    <CompatibleViewFocusedBackgroundColor>3878955</CompatibleViewFocusedBackgroundColor>
+    <CompatibleViewSelctedColumnColor>16446961</CompatibleViewSelctedColumnColor>
+    <CompatibleViewSelctedColumnLuminosity>95</CompatibleViewSelctedColumnLuminosity>
+    <CompatibleViewForeColor>12234151</CompatibleViewForeColor>
+    <CompatibleViewFocusedForeColor>12234151</CompatibleViewFocusedForeColor>
+    <CompatibleViewWatermarkGeneral></CompatibleViewWatermarkGeneral>
+    <CompatibleViewWatermarkDocument></CompatibleViewWatermarkDocument>
+    <CompatibleViewWatermarkPicture></CompatibleViewWatermarkPicture>
+    <CompatibleViewWatermarkMusic></CompatibleViewWatermarkMusic>
+    <CompatibleViewWatermarkMovie></CompatibleViewWatermarkMovie>
+    <CommandBarIconSize1st>24</CommandBarIconSize1st>
+    <CommandBarIconSize2nd>24</CommandBarIconSize2nd>
+    <CommandBarIconSizeVrt>48</CommandBarIconSizeVrt>
+    <CommandBarImagePath></CommandBarImagePath>
+    <FilterBoxWidth2nd>0.8434548</FilterBoxWidth2nd>
+    <FilterBoxWidth3rd>0.85</FilterBoxWidth3rd>
+    <ScriptingOptions>00000000000000000000000000000000</ScriptingOptions>
+    <IncrementalSearchTimeout>1000</IncrementalSearchTimeout>
+  </Config>
+  <FolderViewColors />
+  <Groups>
+    <Group Name="User folders">
+      <Item Type="IDL">14001F4225481E03947BC34DB131E946B44C8DD50000</Item>
+      <Item Type="IDL">14001F44471A0359723FA74489C55595FE6B30EE200000001A00EEBBFE2300001000D09AD3FD8F23AF46ADB46C85480369C700000000</Item>
+      <Item Type="IDL">14001F44471A0359723FA74489C55595FE6B30EE200000001A00EEBBFE23000010003081E2331E4E7646835A98395C3BC3BB00000000</Item>
+      <Item Type="IDL">14001F44471A0359723FA74489C55595FE6B30EE200000001A00EEBBFE230000100071D5D84B196DD348BE97422220080E4300000000</Item>
+      <Item Type="IDL">14001F44471A0359723FA74489C55595FE6B30EE200000001A00EEBBFE23000010001D9B9818B5995B45841CAB7C74E4DDFC00000000</Item>
+      <Item Type="IDL">0000</Item>
+      <Item Type="IDL">14001F44471A0359723FA74489C55595FE6B30EE200000001A00EEBBFE230000100090E24D373F126545916439C4925E467B00000000</Item>
+    </Group>
+    <Group Name="System folders">
+      <Item Type="IDL">14001F706806EE260AA0D7449371BEB064C986830000</Item>
+      <Item Type="IDL">14001F706806EE260AA0D7449371BEB064C986830C0001008421DE39050000001E00718000000000000000000000DBF7EE36AD88814EAD490E313F0C35F80000</Item>
+      <Item Type="IDL">14001F7840F05F6481501B109F0800AA002F954E0000</Item>
+      <Item Type="IDL">14001F50E04FD020EA3A6910A2D808002B30309D19002F433A5C00000000000000000000000000000000000000880031000000000074475323110050524F4752417E310000700008000400EFBEEE3A851A744753232A0000003C000000000001000000000000000000460000000000500072006F006700720061006D002000460069006C0065007300000040007300680065006C006C00330032002E0064006C006C002C002D0032003100370038003100000018005600310000000000744753231000515454616242617200003E0008000400EFBE74475323744753232A00000001F501000000B700000000000000000000000000000051005400540061006200420061007200000018004C00310000000000744753231000546F6F6C7300380008000400EFBE74475323744753232A00000060FC01000000DD00000000000000000000000000000054006F006F006C00730000001400C200B10000000000744753231000474F444D4F447E312E7B454400008C0008000400EFBE74475323744753232A0000001AF8010000009902000000000000000000000000000047006F00640020006D006F00640065002E007B00450044003700420041003400370030002D0038004500350034002D0034003600350045002D0038003200350043002D003900390037003100320030003400330045003000310043007D0000001C001A0000000300EFBE70A47BED548E5E46825C99712043E01C1C000000</Item>
+    </Group>
+    <Group Name="Drives">
+      <Item Type="IDL">14001F50E04FD020EA3A6910A2D808002B30309D19002F433A5C000000000000000000000000000000000000000000</Item>
+      <Item Type="IDL">14001F50E04FD020EA3A6910A2D808002B30309D19002F453A5C000000000000000000000000000000000000000000</Item>
+    </Group>
+  </Groups>
+  <ApplicationLaunchers />
+  <Plugins>
+    <Enabled>0001000000FFFFFFFF01000000000000001101000000000000000B</Enabled>
+    <KeyboardShortcuts>0001000000FFFFFFFF01000000000000000C020000004B51545461624261722C2056657273696F6E3D312E302E302E302C2043756C747572653D6E65757472616C2C205075626C69634B6579546F6B656E3D373861306364653639623437636132350701000000000100000000000000041551545461624261724C69622E506C7567696E4B6579020000000B</KeyboardShortcuts>
+  </Plugins>
+  <CommandBar>
+    <CommandBar1st IconSize="24">
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="89926">
+        <CommandID>3</CommandID>
+        <DisplayText>Groups</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="144497">
+        <CommandID>4</CommandID>
+        <DisplayText>Recent Tabs</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="199069">
+        <CommandID>20</CommandID>
+        <DisplayText>Recent Files</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="319176">
+        <CommandID>5</CommandID>
+        <DisplayText>Application launcher</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="373748">
+        <CommandID>0</CommandID>
+        <DisplayText>Separator</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="428319">
+        <CommandID>6</CommandID>
+        <DisplayText>New window</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="482891">
+        <CommandID>7</CommandID>
+        <DisplayText>Duplicate active tab</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="537462">
+        <CommandID>0</CommandID>
+        <DisplayText>Separator</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="592034">
+        <CommandID>11</CommandID>
+        <DisplayText>Close tab</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="712141">
+        <CommandID>13</CommandID>
+        <DisplayText>Close window</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="766713">
+        <CommandID>14</CommandID>
+        <DisplayText>Close left</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="821284">
+        <CommandID>15</CommandID>
+        <DisplayText>Close right</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="875856">
+        <CommandID>0</CommandID>
+        <DisplayText>Separator</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="930428">
+        <CommandID>23</CommandID>
+        <DisplayText>Filter Box</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="984999">
+        <CommandID>9</CommandID>
+        <DisplayText>Copy Tool</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="1105107">
+        <CommandID>10</CommandID>
+        <DisplayText>TopMost</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="1159678">
+        <CommandID>16</CommandID>
+        <DisplayText>Go up one level</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="1214250">
+        <CommandID>19</CommandID>
+        <DisplayText>Options</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="BuiltIn" SubType="Normal" PersistentID="1268821">
+        <CommandID>0</CommandID>
+        <DisplayText>Separator</DisplayText>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="ScriptingCommand" SubType="Normal" PersistentID="1323393">
+        <CommandID>121</CommandID>
+        <DisplayText>Rename...</DisplayText>
+        <IconResource>"%SystemRoot%\system32\SHELL32.dll", 133</IconResource>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+      <CommandButton Type="ScriptingCommand" SubType="Normal" PersistentID="1377964">
+        <CommandID>38</CommandID>
+        <DisplayText>Toggle Extra View (bottom)</DisplayText>
+        <IconResource>"%SystemRoot%\system32\SHELL32.dll", 256</IconResource>
+        <Args>
+          <Item>SecondViewBar</Item>
+          <Item>!%#1%</Item>
+        </Args>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
+        <SubItems>
+          <CommandButton Type="ScriptingCommand" SubType="Normal" PersistentID="1498072">
+            <CommandID>41</CommandID>
+            <Args>
+              <Item>SecondViewBar</Item>
+            </Args>
+            <MaxReturnValueWait>0</MaxReturnValueWait>
+            <Options>0100000000000000000000010000</Options>
+          </CommandButton>
+        </SubItems>
+      </CommandButton>
+      <CommandButton Type="ScriptingCommand" SubType="Normal" PersistentID="1552643">
+        <CommandID>38</CommandID>
+        <DisplayText>Toggle Extra View (left)</DisplayText>
+        <IconResource>"%SystemRoot%\system32\SHELL32.dll", 252</IconResource>
+        <Args>
+          <Item>ThirdViewBar</Item>
+          <Item>!%#1%</Item>
+        </Args>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
+        <SubItems>
+          <CommandButton Type="ScriptingCommand" SubType="Normal" PersistentID="1607215">
+            <CommandID>41</CommandID>
+            <Args>
+              <Item>ThirdViewBar</Item>
+            </Args>
+            <MaxReturnValueWait>0</MaxReturnValueWait>
+            <Options>0100000000000000000000010000</Options>
+          </CommandButton>
+        </SubItems>
+      </CommandButton>
+    </CommandBar1st>
+    <CommandBar2nd IconSize="24">
+      <CommandButton Type="File" SubType="Normal" PersistentID="1661786">
+        <FileAction>Default</FileAction>
+        <DisplayText>Libraries</DisplayText>
+        <IDL>14001F4225481E03947BC34DB131E946B44C8DD50000</IDL>
+        <Path>::{031E4825-7B94-4DC3-B131-E946B44C8DD5}</Path>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+      </CommandButton>
+      <CommandButton Type="File" SubType="Normal" PersistentID="1716358">
+        <FileAction>Default</FileAction>
+        <DisplayText>Workstation</DisplayText>
+        <IDL>14001F50E04FD020EA3A6910A2D808002B30309D0000</IDL>
+        <Path>::{20D04FE0-3AEA-1069-A2D8-08002B30309D}</Path>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+      </CommandButton>
+      <CommandButton Type="File" SubType="Normal" PersistentID="1770929">
+        <FileAction>Default</FileAction>
+        <DisplayText>Control Panel</DisplayText>
+        <IDL>14001F706806EE260AA0D7449371BEB064C986830000</IDL>
+        <Path>::{26EE0668-A00A-44D7-9371-BEB064C98683}</Path>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+      </CommandButton>
+      <CommandButton Type="File" SubType="Normal" PersistentID="1891037">
+        <FileAction>Default</FileAction>
+        <DisplayText>cmd</DisplayText>
+        <IDL>14001F50E04FD020EA3A6910A2D808002B30309D19002F433A5C0000000000000000000000000000000000000052003100000000005249EA2E100057696E646F7773003C0008000400EFBEEE3A851A5249EA2E2A00000070020000000001000000000000000000000000000000570069006E0064006F007700730000001600560031000000000056492D89100053797374656D333200003E0008000400EFBEEE3A861A56492D892A00000009090000000001000000000000000000000000000000530079007300740065006D0033003200000018005200320000440500753DFC1A2000636D642E657865003C0008000400EFBE753DFC1A753DFC1A2A0000007B5D000000000100000000000000000000000000000063006D0064002E00650078006500000016000000</IDL>
+        <Path>%windir%\system32\cmd.exe</Path>
+        <Args>
+          <Item></Item>
+          <Item>%cd%</Item>
+        </Args>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000010000</Options>
+      </CommandButton>
+      <CommandButton Type="Group" SubType="Normal" PersistentID="1945608">
+        <GroupAction>Default</GroupAction>
+        <Groups>
+          <Group>Drives</Group>
+        </Groups>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+        <Options>0100000000000000000000000000</Options>
+      </CommandButton>
+    </CommandBar2nd>
+    <CommandBarVertical IconSize="48">
+      <CommandButton Type="File" SubType="Normal" PersistentID="2000180">
+        <FileAction>Default</FileAction>
+        <DisplayText>Libraries</DisplayText>
+        <IDL>14001F4225481E03947BC34DB131E946B44C8DD50000</IDL>
+        <Path>::{031E4825-7B94-4DC3-B131-E946B44C8DD5}</Path>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+      </CommandButton>
+      <CommandButton Type="File" SubType="Normal" PersistentID="2109323">
+        <FileAction>Default</FileAction>
+        <DisplayText>Control Panel</DisplayText>
+        <IDL>14001F706806EE260AA0D7449371BEB064C986830000</IDL>
+        <Path>::{26EE0668-A00A-44D7-9371-BEB064C98683}</Path>
+        <MaxReturnValueWait>0</MaxReturnValueWait>
+      </CommandButton>
+    </CommandBarVertical>
+    <Pool />
+  </CommandBar>
+  <Events>
+    <NavigationComplete>0</NavigationComplete>
+    <NavigationFailed>0</NavigationFailed>
+    <WindowOpened>0</WindowOpened>
+    <WindowClosing>0</WindowClosing>
+    <TabChanged>0</TabChanged>
+    <Interactive>
+      <TabClick>1500000002000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</TabClick>
+      <TabDoubleClick>0100000002000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</TabDoubleClick>
+      <TabMiddleClick>00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</TabMiddleClick>
+      <TabRightClick>0300000003000000030000000300000003000000030000000300000003000000</TabRightClick>
+      <TabBarDoubleClick>05000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</TabBarDoubleClick>
+      <TabBarMiddleClick>01000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</TabBarMiddleClick>
+      <TabBarRightClick>0400000004000000040000000400000004000000040000000400000004000000</TabBarRightClick>
+      <NavPaneClick>020000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</NavPaneClick>
+      <NavPaneMiddleClick>000000000C000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</NavPaneMiddleClick>
+      <NavPaneEnter>020000000000000001000000FFFFFFFF03000000FFFFFFFFFFFFFFFFFFFFFFFF</NavPaneEnter>
+      <BreadcrumbsClick>020000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</BreadcrumbsClick>
+      <BreadcrumbsMiddleClick>000000000C00000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</BreadcrumbsMiddleClick>
+      <CommandButtonClick>000000000C00000001000000FFFFFFFF05000000FFFFFFFFFFFFFFFFFFFFFFFF</CommandButtonClick>
+      <CommandButtonMiddleClick>0F000000FFFFFFFFFFFFFFFFFFFFFFFF0D000000FFFFFFFFFFFFFFFFFFFFFFFF</CommandButtonMiddleClick>
+      <WindowCloseButton>01000000FFFFFFFF01000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</WindowCloseButton>
+      <JumpListCommand>01000000FFFFFFFF03000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</JumpListCommand>
+      <GroupMenuClick>000000000C00000001000000FFFFFFFF02000000FFFFFFFFFFFFFFFFFFFFFFFF</GroupMenuClick>
+      <GroupMenuMiddleClick>02000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</GroupMenuMiddleClick>
+      <ViewIconDoubleClick>130000000000000001000000FFFFFFFF10000000FFFFFFFFFFFFFFFFFFFFFFFF</ViewIconDoubleClick>
+      <ViewIconMiddleClick>000000000C000000FFFFFFFF01000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</ViewIconMiddleClick>
+      <ViewBackgroundDoubleClick>00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</ViewBackgroundDoubleClick>
+      <ViewBackgroundMiddleClick>12000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</ViewBackgroundMiddleClick>
+      <SubFolderMenuClick>020000000C000000010000001000000000000000000000000000000000000000</SubFolderMenuClick>
+      <SubFolderMenuMiddleClick>000000000C000000010000001000000000000000000000000000000000000000</SubFolderMenuMiddleClick>
+      <ViewEnterKey>1300000000000000010000000C00000010000000FFFFFFFFFFFFFFFFFFFFFFFF</ViewEnterKey>
+      <PlusButtonClick>00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</PlusButtonClick>
+      <IncludeSelectionMiddleClick>0000000000000000</IncludeSelectionMiddleClick>
+    </Interactive>
+  </Events>
+</QTTabBar>

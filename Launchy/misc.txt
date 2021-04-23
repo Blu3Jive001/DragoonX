@@ -1,0 +1,13 @@
+boundary = 0,0,0,0
+input = 32,1,98,20
+inputAlignment = left
+alternatives = -4,19,152,900
+output = 0,0,0,0
+outputAlignment = left
+icon = 0,0,0,0
+
+dropPathColor = 239,241,245
+dropPathFamily = Montserrat
+dropPathSize = 9
+dropPathWeight = 0
+dropPathItalics = 0

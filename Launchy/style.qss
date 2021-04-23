@@ -1,0 +1,52 @@
+#launchy {
+}
+
+#input {
+	font: 12px Montserrat;
+	background-color: rgb(48,55,67);
+	border-style: none;
+	color: rgb(239,241,245);
+	qproperty-alignment: AlignRightCenter;
+}
+
+#alternatives {
+	font: 9px Montserrat;
+	background-color: rgb(37,42,51);
+	border-style: none;
+	color: #a7adba;
+}
+
+#alternatives::item {
+	font: 9px Montserrat;
+	background-color: rgb(37,42,51);
+	color: #a7adba;
+}
+
+#alternativesPath {
+	font: 9px Montserrat;
+	background-color: rgb(37,42,51);
+	color: #a7adba;
+}
+
+QListWidget#alternatives {
+	font: 10px Montserrat;
+	text-transform: capitalize;
+	background-color: #2B303B;
+	alternate-background-color: #2B303B;
+	selection-background-color: #2B303B;
+	padding: 4px 4px 4px 4px;
+}
+
+#output {
+}
+
+#outputIcon {
+}
+
+QScrollBar#altScroll:vertical {
+	width: 0px;
+}
+
+QScrollBar#altScroll::handle:vertical {
+	background-color: #FF2B303B;
+}
