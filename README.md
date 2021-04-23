@@ -24,6 +24,7 @@ A makeover of sorts for the famous theme, making it functional for my setup, and
 + [Cmder](https://github.com/cmderdev/cmder)
 + [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 + [Foobar2000](https://www.foobar2000.org/)
++ [Xoblite](http://xoblite.net/docs/)
 
 ## A big thanks to
 
