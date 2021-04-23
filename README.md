@@ -19,6 +19,12 @@ A makeover of sorts for the famous theme, making it functional for my setup, and
 + Include a settings menu for Rainmeter code, for user-end customization ease
 + Entirely recode Rainmeter taskbar to Electron for less system resource usage
 
+### Apps I used:
+
++ [Cmder](https://github.com/cmderdev/cmder)
++ [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
++ [Foobar2000](https://www.foobar2000.org/)
+
 ## A big thanks to
 
 + [Kalamity](https://www.deviantart.com/kalam1ty-ac) for the original suite
