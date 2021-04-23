@@ -1,0 +1,43 @@
+[begin] ()
+	[exec] (Home)		{"\Xoblite\Scripts\Explorer.ahk"}
+	[submenu] (System)
+		[exec] (System)			{ms-settings:display}
+		[exec] (Personalization)	{ms-settings:personalization}
+		[exec] (Ease of access)		{ms-settings:easeofaccess-display}
+		[exec] (Update and Security)	{ms-settings:windowsupdate}
+		[exec] (Rainmeter)	{"C:\Program Files\Rainmeter\Rainmeter.exe" !Manage}
+		[separator]
+		[configuration] (Configure)
+	[end]
+	[submenu] (Apps)
+		[exec] (Firefox)	{"C:\Program Files\Mozilla Firefox\firefox.exe"}
+		[exec] (Foobar)		{"C:\Program Files (x86)\foobar2000\foobar2000.exe"}
+  		[separator]
+		[submenu] (Coding)
+	    		[exec] (VSCode) 	{"$UserAppData$\Local\Programs\Microsoft VS Code\Code.exe"}
+  			[exec] (Notepad)	{notepad.exe}
+			[exec] (VirtualBox)	{"C:\Program Files\Oracle\VirtualBox\VirtualBox.exe"}
+			[exec] (Docker)		{"C:\Program Files\Docker\Docker\Docker Desktop.exe"}
+		[end]
+		[separator]
+		[path] (Downloads)	{"$UserProfile$\Downloads"}
+		[submenu] (Theming)
+			[exec]	(StyleBuilder)		{"C:\Users\User\Downloads\WSB1563B\Windows Style Builder.exe"}
+			[exec]	(ResourceHacker)	{"C:\Program Files (x86)\Resource Hacker\ResourceHacker.exe"}
+			[exec]	(Theme Folder)		{"C:\Windows\Resources\Themes"}
+		[end]
+	[end]
+	[submenu] (Tasks)
+		[exec] (DragoonX)	{"$UserProfile$\Customization\Windows\DragoonX"}
+		[exec] (Theme Folder)		{"C:\Windows\Resources\Themes"}
+		[submenu] (Checklist)
+			[exec] (Wallpaper)
+			[exec] (Taskbar)
+			[exec] (Foobar2000)
+			[exec] (Firefox)
+		[end]
+	[end]	
+	[separator]
+	[separator]
+  	[exec] (Terminal)	{"\xoblite\Apps\cmder\Cmder.exe"}
+[end] ()

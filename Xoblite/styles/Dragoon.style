@@ -1,0 +1,141 @@
+! ---------------------------------------------------
+! x-traordinary by qwilk/@xoblite
+! qwilk_AT_xoblite_DOT_net
+! http://xoblite.net/
+! December 13th, 2020
+! ---------------------------------------------------
+
+style.name:		x-traordinary
+style.author:		qwilk/@xoblite
+style.date:		Sun Dec 13 2020
+style.credits:		default style #1 -> xoblite bb5 RC4
+style.comments:		http://xoblite.net/
+style.wallpaper:	(see credits.txt)
+
+! --------------------------------------------------
+
+!rootCommand: bsetroot -solid #202020
+!rootCommand: bsetbg -stretch "$CurrentTheme$\wallpapers\beach_pebbles_sea_179408_3840x2160.jpg"
+!rootCommand2: bsetbg -stretch "$CurrentTheme$\wallpapers\building_architecture_modern_170493_3840x2160.jpg"
+!rootCommand3: bsetbg -stretch "$CurrentTheme$\wallpapers\lake_mountains_slope_169350_3840x2160.jpg"
+!rootCommand4: bsetbg -stretch "$CurrentTheme$\wallpapers\wood_black-and-white_from_below_trees_gloomy_kroner_fog_silence_60216_1920x1080.jpg"
+!rootCommand: bsetbg -stretch "$CurrentTheme$\wallpapers\ocean_surf_foam_sea_water_117846_3840x2160_darkened.jpg"
+
+! --------------------------------------------------
+
+toolbar.appearance: Flat Solid
+toolbar.color: #252A33
+toolbar.font: Montserrat/9/Normal
+toolbar.alignment: Left
+toolbar.textColor: #ffffff
+toolbar.marginWidth: 2
+toolbar.borderWidth: 0
+
+toolbar.label.appearance: ParentRelative
+toolbar.label.font: Blank/1/Normal
+toolbar.label.alignment: Center
+toolbar.label.textColor: #ffffff
+toolbar.label.marginWidth: 1
+
+toolbar.windowLabel.appearance: Flat Gradient SuperHorizontal
+toolbar.windowLabel.color1: #252A33
+toolbar.windowLabel.color2: #252A33
+toolbar.windowLabel.color3: #252A33
+toolbar.windowLabel.color4: #252A33
+toolbar.windowLabel.color5: #252A33
+toolbar.windowLabel.color6: #252A33
+toolbar.windowLabel.color7: #252A33
+toolbar.windowLabel.color8: #252A33
+toolbar.windowLabel.font: Montserrat/11/Normal
+toolbar.windowLabel.alignment: Center
+toolbar.windowLabel.textColor: #ffffff
+toolbar.windowLabel.marginWidth: 3
+toolbar.windowLabel.borderWidth: 0
+
+toolbar.clock.appearance: ParentRelative
+toolbar.clock.font: Blank/1/Normal
+toolbar.clock.alignment: Center
+toolbar.clock.textColor: #ffffff
+toolbar.clock.marginWidth: 2
+
+toolbar.button.appearance: ParentRelative
+toolbar.button.picColor: #252A33
+toolbar.button.marginWidth: 4
+
+toolbar.button.pressed.appearance: Flat Solid
+toolbar.button.pressed.color: #ffffff
+toolbar.button.pressed.picColor: #000000
+toolbar.button.pressed.marginWidth: 4
+toolbar.button.pressed.borderWidth: 0
+
+! --------------------------------------------------
+
+menu.title.appearance: Flat Solid
+menu.title.color: #333743
+menu.title.font: Blank/1/Normal
+menu.title.alignment: Center
+menu.title.textColor: #BAC9E9
+menu.title.shadowColor: #333743
+menu.title.marginWidth: -1
+menu.title.borderWidth: -1
+
+menu.frame.appearance: Flat Solid
+menu.frame.color: #28323B
+menu.frame.font: Montserrat/9/Normal
+menu.frame.alignment: Left
+menu.frame.textColor: #DCDCDC
+menu.frame.disabledColor: #C7E5D6
+menu.frame.bulletColor: #DCDCDC
+menu.frame.marginWidth: 5
+menu.frame.borderWidth: 1
+menu.frame.borderColor: #1A2026
+
+menu.active.appearance: Flat Solid
+menu.active.color: #494D5E
+menu.active.textColor: #FFFFFF
+menu.active.bulletColor: #FFFFFF
+menu.active.marginWidth: 0
+menu.active.borderWidth: 0
+
+menu.grip.appearance: Flat Gradient SuperHorizontal
+menu.grip.color1: #333743
+menu.grip.color2: #333743
+menu.grip.color3: #333743
+menu.grip.color4: #333743
+menu.grip.color5: #333743
+menu.grip.color6: #333743
+menu.grip.color7: #333743
+menu.grip.color8: #333743
+menu.grip.font: Blank/1/Normal
+menu.grip.alignment: Center
+menu.grip.textColor: #ffffff
+menu.grip.marginWidth: 0
+menu.grip.borderWidth: 0
+
+menu.indicator.appearance: Flat Solid
+menu.indicator.color: #404040
+menu.indicator.marginWidth: 0
+menu.indicator.borderWidth: 0
+
+menu.separator.appearance: Flat Gradient MirrorHorizontal
+menu.separator.color1: #28323B
+menu.separator.color2: #28323B
+
+menu.bullet: 
+menu.bullet.position: Right
+
+! --------------------------------------------------
+
+dock.appearance: Flat Solid
+dock.color: #000000
+dock.marginWidth: 2
+dock.borderWidth: 0
+
+! --------------------------------------------------
+
+console.color: #000000
+console.textColor: #ffffff
+console.buttonColor: #ffffff
+console.font: Bebas Neue Regular/10/Normal
+
+! --------------------------------------------------
