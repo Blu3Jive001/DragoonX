@@ -13,6 +13,9 @@ A makeover of sorts for the famous theme, making it functional for my setup, and
 + Restyled Niivu's [DragoonX](https://www.deviantart.com/niivu/art/Dragoon-X-687204548) theme to work better for 20H2
 + Included Winaero tweaks for enhanced Windows peformance
 
+#Update
+Created a Firefox css for it! You can find it [here](https://github.com/Blu3Jive001/DragoonFox)
+
 ### Plans for the future?
 
 + Expand my theme tweak to work for NA (no-addressbar) *without* AHK help
