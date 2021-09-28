@@ -1,24 +1,9 @@
-! ---------------------------------------------------
-! x-traordinary by qwilk/@xoblite
-! qwilk_AT_xoblite_DOT_net
-! http://xoblite.net/
-! December 13th, 2020
-! ---------------------------------------------------
-
-style.name:		x-traordinary
-style.author:		qwilk/@xoblite
-style.date:		Sun Dec 13 2020
+style.name:		DragoonX
+style.author:		Blu3Jive
+style.date:		Tue Sep 28 2021
 style.credits:		default style #1 -> xoblite bb5 RC4
 style.comments:		http://xoblite.net/
-style.wallpaper:	(see credits.txt)
-
-! --------------------------------------------------
-
-!rootCommand: bsetroot -solid #202020
-!rootCommand: bsetbg -stretch "$CurrentTheme$\wallpapers\delorean.jpg"
-!rootCommand2: bsetbg -stretch "$CurrentTheme$\wallpapers\big_ship_blued.jpg"
-!rootCommand3: bsetbg -stretch "$CurrentTheme$\wallpapers\deathstar_blue.jpg"
-!rootCommand4: bsetbg -stretch "$CurrentTheme$\wallpapers\space_blued.jpg"
+style.wallpaper:	See github files
 
 ! --------------------------------------------------
 
@@ -90,9 +75,9 @@ menu.frame.borderWidth: 0
 menu.frame.borderColor: #28323B
 
 menu.active.appearance: Flat Solid
-menu.active.color: #28323B
-menu.active.textColor: #FFFFFF
-menu.active.bulletColor: #FFFFFF
+menu.active.color: #313744
+menu.active.textColor: #D6B982
+menu.active.bulletColor: #313744
 menu.active.marginWidth: 0
 menu.active.borderWidth: 0
 
