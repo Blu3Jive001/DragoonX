@@ -15,21 +15,20 @@ style.wallpaper:	(see credits.txt)
 ! --------------------------------------------------
 
 !rootCommand: bsetroot -solid #202020
-!rootCommand: bsetbg -stretch "$CurrentTheme$\wallpapers\beach_pebbles_sea_179408_3840x2160.jpg"
-!rootCommand2: bsetbg -stretch "$CurrentTheme$\wallpapers\building_architecture_modern_170493_3840x2160.jpg"
-!rootCommand3: bsetbg -stretch "$CurrentTheme$\wallpapers\lake_mountains_slope_169350_3840x2160.jpg"
-!rootCommand4: bsetbg -stretch "$CurrentTheme$\wallpapers\wood_black-and-white_from_below_trees_gloomy_kroner_fog_silence_60216_1920x1080.jpg"
-!rootCommand: bsetbg -stretch "$CurrentTheme$\wallpapers\ocean_surf_foam_sea_water_117846_3840x2160_darkened.jpg"
+!rootCommand: bsetbg -stretch "$CurrentTheme$\wallpapers\delorean.jpg"
+!rootCommand2: bsetbg -stretch "$CurrentTheme$\wallpapers\big_ship_blued.jpg"
+!rootCommand3: bsetbg -stretch "$CurrentTheme$\wallpapers\deathstar_blue.jpg"
+!rootCommand4: bsetbg -stretch "$CurrentTheme$\wallpapers\space_blued.jpg"
 
 ! --------------------------------------------------
 
 toolbar.appearance: Flat Solid
 toolbar.color: #252A33
-toolbar.font: Montserrat/9/Normal
+toolbar.font: Montserrat/7/Normal
 toolbar.alignment: Left
 toolbar.textColor: #ffffff
-toolbar.marginWidth: 2
-toolbar.borderWidth: 0
+toolbar.marginWidth: -1
+toolbar.borderWidth: -1
 
 toolbar.label.appearance: ParentRelative
 toolbar.label.font: Blank/1/Normal
@@ -47,10 +46,10 @@ toolbar.windowLabel.color6: #252A33
 toolbar.windowLabel.color7: #252A33
 toolbar.windowLabel.color8: #252A33
 toolbar.windowLabel.font: Montserrat/11/Normal
-toolbar.windowLabel.alignment: Center
+toolbar.windowLabel.alignment: Left
 toolbar.windowLabel.textColor: #ffffff
-toolbar.windowLabel.marginWidth: 3
-toolbar.windowLabel.borderWidth: 0
+toolbar.windowLabel.marginWidth: -3
+toolbar.windowLabel.borderWidth: -3
 
 toolbar.clock.appearance: ParentRelative
 toolbar.clock.font: Blank/1/Normal
@@ -83,15 +82,15 @@ menu.frame.appearance: Flat Solid
 menu.frame.color: #28323B
 menu.frame.font: Montserrat/9/Normal
 menu.frame.alignment: Left
-menu.frame.textColor: #DCDCDC
+menu.frame.textColor: #9397A9
 menu.frame.disabledColor: #C7E5D6
-menu.frame.bulletColor: #DCDCDC
-menu.frame.marginWidth: 5
-menu.frame.borderWidth: 1
-menu.frame.borderColor: #1A2026
+menu.frame.bulletColor: #28323B
+menu.frame.marginWidth: 8
+menu.frame.borderWidth: 0
+menu.frame.borderColor: #28323B
 
 menu.active.appearance: Flat Solid
-menu.active.color: #494D5E
+menu.active.color: #28323B
 menu.active.textColor: #FFFFFF
 menu.active.bulletColor: #FFFFFF
 menu.active.marginWidth: 0
