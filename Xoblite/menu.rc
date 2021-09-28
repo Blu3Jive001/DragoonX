@@ -1,8 +1,8 @@
 [begin] ()
-	[exec] (Home)		{"C:\Users\Userl\Desktop\AHK\Xoblite\Explorer.ahk"}
+	[exec] (Home)		{"C:\Users\User\Desktop\AHK\Xoblite\Explorer.ahk"}
 	[submenu] (Apps)
 		[exec] (Firefox)	{"C:\Program Files\Mozilla Firefox\firefox.exe"}
-		[exec] (Potplayer)		{"C:\Program Files\DAUM\PotPlayer\PotPlayerMini64.exe"}
+		[exec] (Potplayer)	{"C:\Program Files\DAUM\PotPlayer\PotPlayerMini64.exe"}
 		[exec] (OneNote)	{"C:\Users\User\Desktop\OneNote.lnk"}
   		[separator]
 		[submenu] (Coding)
@@ -35,20 +35,11 @@
 		[end]
 	[end]
 	[submenu] (Tasks)
-		[exec] (Project)	{"C:\Users\User\Downloads\Project"}
-		[exec] (Theme Folder)		{"C:\Windows\Resources\Themes"}
-		[submenu] (Checklist)
-			[exec] (Wallpaper)
-			[exec] (Foobar2000)
-			[exec] (FirefoxCSS update)
-			[exec] (Widgets)
-		[end]
+		[exec] (Cmder)
+		[exec] (Google Calendar - October)
+		[exec] (New folder)
+		[exec] (Alt-space launcher)
 	[end]
-	[submenu] (Screenshot)
-		[exec] (Screenshot)	{"C:\Users\User\Desktop\AHK\Screenshot.ahk"}
-		[exec] (Recording)	{"C:\Users\User\Desktop\AHK\ScreenRecording.ahk"}
-		[exec] (Active Window)	{"C:\Users\User\Desktop\AHK\ActiveWindow.ahk"}
-	[end]	
 	[exec]
   	[exec] (Terminal)	{"C:\Users\User\Downloads\cmder\Cmder.exe"}
 [end] ()
